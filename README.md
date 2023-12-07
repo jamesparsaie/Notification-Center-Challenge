@@ -1,8 +1,10 @@
-# React + Vite
+# Purpose of project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I am really enjoying working on frontend development and attempting to mimic a finished design. Below is the design that I got from
+Frontend Mentor website where you can practice frontend work.
 
-Currently, two official plugins are available:
+![Design](design\desktop-design.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+And below here is my finished product and how it looks
+
+![Finished Product](design\finished.PNG)
