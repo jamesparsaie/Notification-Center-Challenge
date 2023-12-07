@@ -46,7 +46,7 @@ function App() {
         <div className='row row-inactive'>
           <Avatar src='assets\images\avatar-jacob-thompson.webp' />
           <div className='row-content'>
-            <p><span className='name'>Jacob Thompson</span> has joined your group Chess Club </p>
+            <p><span className='name'>Jacob Thompson</span> has joined your group <span id='post-highlight'>Chess Club</span> </p>
             <p id='time'>1 day ago</p>
           </div>
           <GoDotFill  id='red-dot'/>
@@ -68,6 +68,17 @@ function App() {
 
         <br></br>
 
+        <div className='row row-active'>
+          <Avatar src='assets\images\avatar-nathan-peterson.webp' />
+          <div className='row-content'>
+            <p><span className='name'>Nate Peterson</span> reacted to your recent post 
+                <span id='post-highlight'> 5 end-game strategies to increase your win rate</span>
+            </p>
+            <p id='time'>2 weeks ago</p>
+          </div>
+        </div>
+
+        <br></br>
       </div>
     </div>
   )

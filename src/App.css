@@ -35,7 +35,7 @@ body {
   flex-direction: column;
   background-color: #FFFFFF;
   border-radius: 15px;
-  width: 35%;
+  width: 33%;
 }
 
 #red-dot {
@@ -99,4 +99,9 @@ body {
 #post-highlight {
   font-weight: bold;
   color: rgb(112, 112, 112);
+}
+
+#post-highlight:hover {
+  color: rgb(40, 40, 194);
+  cursor: pointer;
 }
